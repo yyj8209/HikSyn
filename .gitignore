@@ -1,0 +1,11 @@
+*.obj
+*.pch
+*.sbr
+*.ilk
+*.pdb
+*.sdf
+*.ipch
+ClientDemo.exe
+vc_mbcsmfc.exe
+/DVC60
+/Debug
